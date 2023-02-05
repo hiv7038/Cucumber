@@ -21,6 +21,11 @@ public class userController_1 {
 	
 	
 	
+	
+	
+	
+	
+	
 	// for Query paramater
 	@GetMapping
 	public String getUser(@RequestParam(value="page") int pageno, @RequestParam(value="limit")int limitno)

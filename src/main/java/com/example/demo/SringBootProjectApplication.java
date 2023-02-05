@@ -10,6 +10,12 @@ public class SringBootProjectApplication {
 		SpringApplication.run(SringBootProjectApplication.class, args);
 		//System.out.println("Hii");
 		 
+		
+		
+		
+		
+		
+		
 	}
 
 }
