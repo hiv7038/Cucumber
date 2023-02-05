@@ -17,6 +17,12 @@ public class userController_1 {
 		return "http Get Requesr was send for userId "+ userID;
 	}
 	
+	
+	
+	
+	
+	
+	
 	// for Query paramater
 	@GetMapping
 	public String getUser(@RequestParam(value="page") int pageno, @RequestParam(value="limit")int limitno)
