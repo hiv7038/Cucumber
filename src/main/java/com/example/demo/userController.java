@@ -18,6 +18,11 @@ public class userController {
 	return "http GET request was send";
 	}
 	
+	
+	
+	
+	
+	
 	@PostMapping                         // To Trigger the Post request(mapping for post method)
 	public String postUsers() {
 	return "http post request was send";
