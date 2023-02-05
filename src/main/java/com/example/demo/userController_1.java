@@ -14,9 +14,7 @@ public class userController_1 {
 	@GetMapping(path="/{userID}")
 	public String getUser(@PathVariable String userID)
 	{
-		return "http Get Requesr was send for userId "+ userID;
-	}
-	
+		return "http Get Requesr was send for userId "+ userID;}
 	
 	
 	
